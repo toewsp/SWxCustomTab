@@ -1,0 +1,9 @@
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.TestDLL\bin\Debug\SWxCustomTab.TestDLL.dll
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.TestDLL\bin\Debug\SWxCustomTab.TestDLL.pdb
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.TestDLL\bin\Debug\SWxCustomTab.Shared.dll
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.TestDLL\bin\Debug\SWxCustomTab.Shared.pdb
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.TestDLL\obj\Debug\SWxCustomTab.TestDLL.csproj.AssemblyReference.cache
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.TestDLL\obj\Debug\SWxCustomTab.TestDLL.csproj.CoreCompileInputs.cache
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.TestDLL\obj\Debug\SWxCustomTab.TestDLL.csproj.CopyComplete
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.TestDLL\obj\Debug\SWxCustomTab.TestDLL.dll
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.TestDLL\obj\Debug\SWxCustomTab.TestDLL.pdb

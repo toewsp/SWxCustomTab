@@ -1,0 +1,12 @@
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\bin\Debug\SWxCustomTab.dll
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\bin\Debug\SWxCustomTab.pdb
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\bin\Debug\SWxCustomTab.Shared.dll
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\bin\Debug\SWxCustomTab.Shared.pdb
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\obj\Debug\SWxCustomTab.csproj.AssemblyReference.cache
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\obj\Debug\SWxCustomTab.UserDefinedCommandDesigner.resources
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\obj\Debug\SWxCustomTab.csproj.GenerateResource.cache
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\obj\Debug\SWxCustomTab.csproj.CoreCompileInputs.cache
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\obj\Debug\SWxCustomTab.csproj.CopyComplete
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\obj\Debug\SWxCustomTab.dll
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\obj\Debug\SWxCustomTab.pdb
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\obj\Debug\SWxCustomTab.Properties.Resources.resources

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfUserDefinedCommand xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UserDefinedCommand>
+    <Name>TestProcess</Name>
+    <Title>Notepad öffnen</Title>
+    <Description>Öffnet ein neues Notepad-Fenster</Description>
+    <ShowInDocType>Part</ShowInDocType>
+    <ImageIndex>0</ImageIndex>
+    <Filename>C:\Windows\notepad.exe</Filename>
+    <WaitForExit>false</WaitForExit>
+    <CommandType>Process</CommandType>
+  </UserDefinedCommand>
+  <UserDefinedCommand>
+    <Name>TestMacro</Name>
+    <Title>Makrobefehl ausführen</Title>
+    <Description>Führt ein SolidWorks-Makro aus</Description>
+    <ShowInDocType>Part</ShowInDocType>
+    <ImageIndex>1</ImageIndex>
+    <Filename>C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab\bin\Debug\Testmacro.swp</Filename>
+    <ModuleName>Testmacro1</ModuleName>
+    <FunctionName>main</FunctionName>
+    <WaitForExit>false</WaitForExit>
+    <CommandType>Macro</CommandType>
+  </UserDefinedCommand>
+  <UserDefinedCommand>
+    <Name>TestDLL</Name>
+    <Title>DLL-Aufruf</Title>
+    <Description>Führt eine DLL aus</Description>
+    <ShowInDocType>Part</ShowInDocType>
+    <ImageIndex>2</ImageIndex>
+    <Filename>C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.TestDLL\bin\Debug\SWxCustomTab.TestDLL.dll</Filename>
+    <WaitForExit>false</WaitForExit>
+    <CommandType>DLL</CommandType>
+  </UserDefinedCommand>
+</ArrayOfUserDefinedCommand>

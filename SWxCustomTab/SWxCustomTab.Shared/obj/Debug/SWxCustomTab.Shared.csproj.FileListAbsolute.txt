@@ -1,0 +1,11 @@
+C:\Users\MEL01049\source\repos\SWxCustomTab\SWxCustomTab.Shared\bin\Debug\SWxCustomTab.Shared.dll
+C:\Users\MEL01049\source\repos\SWxCustomTab\SWxCustomTab.Shared\bin\Debug\SWxCustomTab.Shared.pdb
+C:\Users\MEL01049\source\repos\SWxCustomTab\SWxCustomTab.Shared\obj\Debug\SWxCustomTab.Shared.csproj.AssemblyReference.cache
+C:\Users\MEL01049\source\repos\SWxCustomTab\SWxCustomTab.Shared\obj\Debug\SWxCustomTab.Shared.csproj.CoreCompileInputs.cache
+C:\Users\MEL01049\source\repos\SWxCustomTab\SWxCustomTab.Shared\obj\Debug\SWxCustomTab.Shared.dll
+C:\Users\MEL01049\source\repos\SWxCustomTab\SWxCustomTab.Shared\obj\Debug\SWxCustomTab.Shared.pdb
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.Shared\bin\Debug\SWxCustomTab.Shared.dll
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.Shared\bin\Debug\SWxCustomTab.Shared.pdb
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.Shared\obj\Debug\SWxCustomTab.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.Shared\obj\Debug\SWxCustomTab.Shared.dll
+C:\Users\Peter.Toews\source\repos\SWxCustomTab\SWxCustomTab.Shared\obj\Debug\SWxCustomTab.Shared.pdb
